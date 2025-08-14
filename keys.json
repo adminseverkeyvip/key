@@ -1,15 +1,6 @@
 {
   "222.252.161.173": {
-    "key": "KeyFree-G5QAGF87JQ",
-    "expiration_date": "2025-08-14T23:59:00"
-  },
-
-  "all": {
-    "key": "KeyFree-YtbTamModAOV",
-    "expiration_date": "2025-08-14T23:59:00"
+    "key": "Admin",
+    "expiration_date": "30000-08-14T23:59:00"
   }
-  "222.252.161.173": {
-    "key": "KeyFree-G5QAGF87JQ",
-    "expiration_date": "2025-08-16T23:59:00"
-  },
 }
