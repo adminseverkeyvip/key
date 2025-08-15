@@ -1,1 +1,12 @@
-{}
+{
+    "device_info": {
+        "system": "Linux",
+        "node": "Huu-Tam",
+        "release": "4.20.69-ish",
+        "version": "SUPER AWESOME May 20 2023 23:41:32",
+        "machine": "i686",
+        "processor": ""
+    },
+    "device_id": "5f85e495c84d71651d9283ddce4d4eb9ed1af6a0e4a8895324d70bf89bddde44",
+    "timestamp": "2025-08-15 15:17:50.847024"
+}
